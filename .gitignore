@@ -1,1 +1,5 @@
 previews/
+
+.ipynb_checkpoints/
+.~lock.cleared.csv#
+cleared.csv
