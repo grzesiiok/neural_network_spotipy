@@ -1,5 +1,11 @@
 previews/
+amps/
+ffts/
 
 .ipynb_checkpoints/
 .~lock.cleared.csv#
+.~lock.dataset_with_amps.csv#
 cleared.csv
+dataset_with_amps.csv
+output_dataset.feather
+output_dataset_with_amp_uri.feather
