@@ -9,3 +9,4 @@ cleared.csv
 dataset_with_amps.csv
 output_dataset.feather
 output_dataset_with_amp_uri.feather
+output_dataset_with_amp_uri_for_debug.csv
