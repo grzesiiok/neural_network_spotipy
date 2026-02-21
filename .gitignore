@@ -11,4 +11,5 @@ dataset_with_amps.csv
 output_dataset.feather
 output_dataset_with_amp_uri.feather
 output_dataset_with_amp_uri_for_debug.csv
+output_dataset_with_mfcc_uri.feather
 crnn_model.h5
