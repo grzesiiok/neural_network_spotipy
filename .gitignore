@@ -13,3 +13,5 @@ output_dataset_with_amp_uri.feather
 output_dataset_with_amp_uri_for_debug.csv
 output_dataset_with_mfcc_uri.feather
 crnn_model.h5
+crnn_model_2.h5
+spotify_songs.csv
